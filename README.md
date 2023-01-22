@@ -6,7 +6,7 @@
     <img src="![Shield](https://user-images.githubusercontent.com/88284126/213931871-f75a0f79-65d8-4f34-a690-5f541d3de02d.png)" alt="Logo" width="80" height="80">
   </a> -->
   
-  ![Shield](https://user-images.githubusercontent.com/88284126/213931871-f75a0f79-65d8-4f34-a690-5f541d3de02d.png)
+   ![Shield](https://user-images.githubusercontent.com/88284126/213932158-f5c7a0ae-1994-4c66-9d5b-345d934c8ed1.jpg)
 
   <h3 align="center">Andro-Shield</h3>
 
