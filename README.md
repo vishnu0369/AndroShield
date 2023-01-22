@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="![Shield](https://github.com/vishnu0369/AndroShield/blob/main/AndroShield/assets/images/Shield.png)" alt="Logo" width="80" height="80">
+    <img src="![Shield](https://user-images.githubusercontent.com/88284126/213931871-f75a0f79-65d8-4f34-a690-5f541d3de02d.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Andro-Shield</h3>
