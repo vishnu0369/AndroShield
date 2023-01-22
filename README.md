@@ -10,12 +10,13 @@
 
   <h3 align="center">Andro-Shield</h3>
 
-  <p align="center">
+  <!-- <p align="center">
     A Simple Flutter app that lets users upload and check if an APK is safe to install or not.
     <br />
     <a href="#demo-video"><strong>View Demo»</strong></a>
     <br />
-  </p>
+  </p> 
+  -->
 </div>
 
 
@@ -154,13 +155,14 @@ I have listed these resources which I found helpful and also included a few of m
 
 
 
-
+<!--
 <div id="demo-video">
 
 ## Demo Video
 
 <video src="https://github.com/vishnu0369/AndroShield/blob/main/km_20230121_720p_30f_20230121_005134%20(1).mp4"></video>
 </div>
+-->
 
 
 
