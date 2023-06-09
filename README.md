@@ -119,7 +119,7 @@ Always make sure to remove unnecessary dependencies.
 
 ## Contact
 
-Naveen Varma - [@LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-reddy-yelty-a92a86222/) - yvvr03@gmail.com
+vishnu vardhan reddy - [@LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-reddy-yelty-a92a86222/) - yvvr03@gmail.com
 
 Project Link: [https://github.com/vishnu0369/AndroShield](https://github.com/vishnu0369/AndroShield)
 
